@@ -1,3 +1,5 @@
 flask
 transformers
 torch
+gunicorn
+deep-translator
