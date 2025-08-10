@@ -98,6 +98,6 @@ MIT License
 Let me know if you want me to customize the file for a specific backend stack (Flask, Node.js, etc.) or publish it as a downloadable `.md` file.
 ```
 ## 🌑 Dark mode
-![HM Translator Banner](translator/assets/translator1.png)
+![HM Translator Banner](assets/translator1.png)
 ## ⚪ Light mode
-![HM Translator Banner](translator/assets/translator2.png)
+![HM Translator Banner](assets/translator2.png)
